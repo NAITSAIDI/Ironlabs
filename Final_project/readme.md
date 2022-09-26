@@ -3,12 +3,12 @@ DATA FIR BETTER CLIMBING/
 
 *Alix NAIT SAIDI*
 
-**Data Analytics bootcamp @IronHack Paris, Jul- Sep 22**\
+**Data Analytics bootcamp @IronHack Paris, Jul- Sep 22**/
 
-## Project definition\
+## Project definition/
 
-This is my final project for the Data Analytics bootcamp I did in July-Sep 2022 at [IronHack](https://www.ironhack.com/fr/data-analytics/paris) in Paris.\
-/
+This is my final project for the Data Analytics bootcamp I did in July-Sep 2022 at [IronHack](https://www.ironhack.com/fr/data-analytics/paris) in Paris./
+
 Using A survey sent to amateur climbers, it aims at visualising and analysing the correlation there is to observe between different features in a climber (weight, height, gender, training\'85.)  and their performance.\
 The completion of this project has taken 4 days before being presented to a jury.\
 /
