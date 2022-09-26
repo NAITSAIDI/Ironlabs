@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>\
-DATA FIR BETTER CLIMBING\
-*Alix NAIT SAIDI*\
+DATA FIR BETTER CLIMBING
+*Alix NAIT SAIDI*
 
 **Data Analytics bootcamp @IronHack Paris, Jul- Sep 22**\
 
