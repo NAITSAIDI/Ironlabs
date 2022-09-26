@@ -5,12 +5,12 @@ DATA FIR BETTER CLIMBING\
 **Data Analytics bootcamp @IronHack Paris, Jul- Sep 22**\
 \
 ## Project definition\
-\
+/
 This is my final project for the Data Analytics bootcamp I did in July-Sep 2022 at [IronHack](https://www.ironhack.com/fr/data-analytics/paris) in Paris.\
-\
+/
 Using A survey sent to amateur climbers, it aims at visualising and analysing the correlation there is to observe between different features in a climber (weight, height, gender, training\'85.)  and their performance.\
 The completion of this project has taken 4 days before being presented to a jury.\
-\
+/
 ## Business case\
 Climbing is becoming more and more popular. Climbing gyms seem to be cropping all over the place, especially in the Parisian Region, so this seems to be a profitable business to the founders (Arkose, Climb up, Blockout, Blockbuster \'85) \
 As a climber, I am personnaly interested in getting better in this sport. So I decided to use data to try and understand what make us get better, no matter if we are short, tall, heavy or light. Are there any other features that we can actually monitor that really matter. \
