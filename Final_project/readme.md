@@ -1,11 +1,11 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>\
 DATA FIR BETTER CLIMBING\
 *Alix NAIT SAIDI*\
-\
+
 **Data Analytics bootcamp @IronHack Paris, Jul- Sep 22**\
-\
+
 ## Project definition\
-/
+
 This is my final project for the Data Analytics bootcamp I did in July-Sep 2022 at [IronHack](https://www.ironhack.com/fr/data-analytics/paris) in Paris.\
 /
 Using A survey sent to amateur climbers, it aims at visualising and analysing the correlation there is to observe between different features in a climber (weight, height, gender, training\'85.)  and their performance.\
