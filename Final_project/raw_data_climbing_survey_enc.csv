@@ -1,0 +1,110 @@
+,Timestamp,Age,Gender,Weight,Height,Level,Indoor or outdoor ,Experience,Training frequency,Gym,Climbing shoes ,Competition ,BMI
+0,9/14/2022 18:12:35,40,Male,78.0,181,5B,outdoor,1,1.0,vary,Decathlon,yes,23.808797045267237
+1,9/14/2022 18:20:00,32,Male,65.0,180,5B,indoor,6,3.0,vary,Five ten,yes,20.061728395061728
+2,9/14/2022 18:23:52,40,Male,105.0,186,5B,indoor,1,1.0,vary,Decathlon,no,30.350329517863333
+3,9/14/2022 19:16:30,32,Male,46.0,155,6B,indoor,1,1.0,same,Simond,no,19.14672216441207
+4,9/14/2022 19:19:06,22,Male,63.0,178,6B,outdoor,1,4.0,same,,yes,19.883853048857468
+5,9/14/2022 19:19:42,35,Male,77.0,183,6B,indoor,2,1.0,vary,Panther,no,22.99262444384723
+6,9/14/2022 19:28:47,31,Male,65.0,180,7A,indoor,1,4.0,vary,"La Sportiva, Scarpa",no,20.061728395061728
+7,9/14/2022 19:47:42,30,Female,50.0,155,6A,indoor,1,4.0,same,,no,20.811654526534856
+8,9/14/2022 21:03:38,33,Female,68.0,170,6A,indoor,4,2.0,vary,Simond,no,23.529411764705884
+9,9/14/2022 22:29:49,30,Female,53.0,163,6B,indoor,1,2.0,vary,Scarpa vapor ,no,19.94805976890361
+10,9/15/2022 9:48:43,54,Female,58.0,162,5C,indoor,4,1.0,same,Simond ,no,22.10028959000152
+11,9/15/2022 10:37:32,34,Male,73.0,174,6A,indoor,1,3.0,vary,Simond,no,24.111507464658473
+12,9/15/2022 17:17:37,29,Male,57.0,164,6C,indoor,5,1.0,vary,Simond,no,21.192742415229034
+13,9/16/2022 13:36:33,32,Female,55.0,160,5b,indoor,1,1.0,vary,,no,21.484374999999996
+14,9/16/2022 14:44:44,33,Male,100.0,195,5b,indoor,1,1.0,vary,,no,26.298487836949377
+15,9/16/2022 17:46:04,35,Male,80.0,185,6B,indoor,1,5.0,same,Boreal,no,23.37472607742878
+16,9/16/2022 17:50:16,29,Male,57.0,177,6C,indoor,1,1.0,vary,La Sportiva,no,18.194005553959588
+17,9/16/2022 18:47:56,32,Male,110.0,210,7C,outdoor,12,3.0,vary,,no,24.94331065759637
+18,9/16/2022 18:50:53,23,Male,96.0,181,5C,indoor,1,1.0,same,Rental shoes,no,29.303134824944294
+19,9/16/2022 19:41:05,21,Male,74.0,184,6C,indoor,1,1.0,same,La sportiva tarantulas,no,21.85727788279773
+20,9/16/2022 20:34:33,26,Male,103.0,188,6C,outdoor,4,1.0,same,La sportiva,no,29.14214576731553
+21,9/16/2022 20:46:57,27,Male,66.0,180,7A,indoor,3,4.0,same,Tenaya Tarifa,no,20.37037037037037
+22,9/16/2022 20:47:56,38,Male,70.0,170,6C,indoor,1,2.0,vary,Boreal,no,24.221453287197235
+23,9/16/2022 21:18:45,37,Male,170.0,170,7C,indoor,2,6.0,vary,So Ill free range pro,no,58.82352941176471
+24,9/16/2022 22:12:12,44,Male,80.0,183,7A,indoor,1,3.0,vary,Scarpa,no,23.888440980620498
+25,9/16/2022 22:13:26,35,Female,55.0,158,7A,outdoor,11,3.0,vary,La sportiva miura vs,yes,22.031725684986377
+26,9/16/2022 22:20:51,19,Male,67.0,179,7A,outdoor,9,5.0,same,Scarpa,yes,20.91070815517618
+27,9/16/2022 22:21:24,25,Male,82.0,174,7A,indoor,3 year,3.0,vary,Scarpa ,yes,27.08415906989034
+28,9/16/2022 22:22:55,27,Male,61.0,169,7A,indoor,1 year,3.0,same,Scarpa Drago LV,yes,21.35779559539232
+29,9/16/2022 22:27:34,35,Male,75.0,178,7A,outdoor,5,4.0,vary,VSR SCARPA ,yes,23.671253629592222
+30,9/16/2022 22:32:01,39,Male,85.0,192,7C,outdoor,20,3.0,same,Scarpa instincts ,no,23.057725694444446
+31,9/16/2022 22:40:42,24,Male,82.0,170,6C,indoor,3,2.0,vary,Scarpa,yes,28.373702422145332
+32,9/16/2022 22:47:43,35,Male,78.0,182,6C,outdoor,3,3.0,vary,Evolv phantom ,yes,23.54788069073783
+33,9/16/2022 22:53:12,17,Male,70.0,180,6C,indoor,1,3.0,same,La sportiva,no,21.604938271604937
+34,9/16/2022 23:46:03,33,Female,62.0,164,7B,indoor,2,2.0,vary,"La sportiva, boreal ",no,23.051754907792983
+35,9/17/2022 0:40:22,26,Male,84.0,195,7C,indoor,1,6.0,vary,La Sportiva Comp,yes,22.090729783037478
+36,9/17/2022 0:51:41,30,Male,69.0,168,5b,indoor,2,2.0,vary,Tenya,no,24.44727891156463
+37,9/17/2022 1:45:29,34,Male,65.0,174,7B,outdoor,2.5,6.0,same,Scarpa & la Sportiva,no,21.469150482230148
+38,9/17/2022 9:41:51,22,Male,61.0,168,6C,indoor,1,2.0,same,La Sportiva Skwarma,no,21.612811791383223
+39,9/17/2022 17:49:36,24,Male,79.0,175,7A,indoor,2,3.0,same,Scarpa Drago La Sportiva Theory,no,25.79591836734694
+40,9/18/2022 0:08:53,25,Male,54.0,170,7A,indoor,4,2.0,vary,La sportiva,yes,18.68512110726644
+41,9/18/2022 17:17:49,26,Male,64.0,175,7B,indoor,3,2.0,same,scarpa,no,20.897959183673468
+42,9/18/2022 17:17:59,26,Male,64.0,175,7B,indoor,3,2.0,same,scarpa,no,20.897959183673468
+43,9/18/2022 20:37:27,25,Male,75.0,182,6C,outdoor,"Climbed regularly for 1 year, had a 5 year break, been climbing again regularly for 9 months",4.0,vary,La Sportiva Solution Comp/Scarpa Instinct,no,22.6421929718633
+44,9/19/2022 10:34:52,34,Female,62.0,165,5C,indoor,1,2.0,same,Garre,no,22.77318640955005
+45,9/20/2022 0:35:48,23,Female,56.0,159,7A,outdoor,2 years,4.0,vary,"Scarp Dragos, Evolv Agros and La Sportiva Skwamas ",yes,22.151022507021082
+46,9/15/2022 12:03:26,38,Female,64.0,173,5C,outdoor,3,1.0,varier,Decathlon ,Non,21.383941996057334
+47,9/15/2022 12:33:42,41,Male,83.0,170,6B,outdoor,6,1.0,meme,Lasportiva,Oui,28.719723183391007
+48,9/15/2022 13:36:59,31,Female,55.0,169,5C,outdoor,4,1.0,varier,Sportiva ,,19.257028815517668
+49,9/15/2022 13:46:30,37,Male,73.0,188,6B,outdoor,4,2.0,varier,EB,Non,20.654142145767317
+50,9/15/2022 16:24:35,63,Male,73.0,172,6A,outdoor,4,3.0,varier,Tenaya,Non,24.675500270416443
+51,9/15/2022 17:37:09,32,Female,65.0,161,5b,indoor,2,3.0,varier,Scarpa,Non,25.076193048107708
+52,9/15/2022 17:37:41,27,Male,83.0,198,6C,outdoor,15,3.0,varier,Five ten ,Non,21.17130905009693
+53,9/15/2022 18:07:57,34,Male,60.0,189,7A,indoor,10,4.0,varier,Scarpa Instinct VS ,Oui,16.79684219366759
+54,9/15/2022 18:19:27,36,Female,65.0,168,5C,indoor,2,1.0,meme,decathlon,Non,23.030045351473927
+55,9/15/2022 19:00:38,23,Male,68.0,169,6C,indoor,3,1.0,varier,Basique de chez decathlon ,Non,23.80869017191275
+56,9/15/2022 22:50:23,23,Female,47.0,155,5C,indoor,2,1.0,meme,Vertical art,Non,19.562955254942764
+57,9/15/2022 23:02:34,21,Male,52.0,162,7B,outdoor,4,3.0,varier,Scarpa Instinct VS Woman,Oui,19.81405273586343
+58,9/15/2022 23:16:38,23,Male,62.0,175,6C,indoor,2,2.0,meme,Sportiva kubo,Non,20.244897959183675
+59,9/16/2022 8:27:01,35,Male,76.0,176,6B,outdoor,,3.0,varier,Scarpa ,Non,24.535123966942148
+60,9/16/2022 8:35:32,22,Male,61.0,168,7C,indoor,8,5.0,varier,Scarpa ,Oui,21.612811791383223
+61,9/16/2022 8:41:27,26,Male,73.0,177,7A,outdoor,1,3.0,meme,Scarpa,Oui,23.301094832264035
+62,9/16/2022 8:44:53,25,Male,76.0,182,6C,indoor,1,2.0,varier,La scarpa ,Non,22.944088878154812
+63,9/16/2022 8:52:05,32,Male,88.0,187,7A,indoor,2,5.0,varier,"Lasportiva skawma, Scarpa BoosterS, Phantom Evolv, ...",Non,25.165146272412706
+64,9/16/2022 8:55:24,24,Female,60.0,165,5C,outdoor,15,1.0,meme,Edmond ,Non,22.03856749311295
+65,9/16/2022 8:58:33,27,Male,76.0,187,7A,outdoor,4,4.0,varier,Scarpa vapor,Non,21.7335354170837
+66,9/16/2022 10:15:57,37,Female,31.0,150,5b,indoor,25,1.0,meme,,Oui,13.777777777777779
+67,9/16/2022 10:30:07,31,Female,70.0,171,6C,indoor,9,2.0,varier,La sportiva ,Non,23.938989774631512
+68,9/16/2022 10:40:03,36,Male,78.0,179,6A,outdoor,4,2.0,varier,Boldrini,Non,24.343809494085704
+69,9/16/2022 10:56:53,34,Male,74.0,176,7A,indoor,15,2.0,varier,Sportive & red chili,Non,23.889462809917354
+70,9/16/2022 11:10:41,35,Female,51.0,153,6A,indoor,1,3.0,varier,Mad Rock,Non,21.78649237472767
+71,9/16/2022 11:46:51,25,Female,52.0,175,6A,indoor,1,1.0,meme,Barrabes,Non,16.979591836734695
+72,9/16/2022 11:54:29,36,Male,75.0,185,5C,indoor,1,2.0,varier,Decathlon,Non,21.913805697589478
+73,9/16/2022 12:08:14,23,Female,48.0,150,5b,indoor,1,2.0,varier,,Non,21.333333333333332
+74,9/16/2022 12:52:01,23,Male,,186,7C,outdoor,7,3.0,varier,La sportiva et scarpa,Non,
+75,9/16/2022 13:34:00,26,Male,66.0,176,6A,outdoor,4,1.0,meme,Simond,Non,21.306818181818183
+76,9/16/2022 14:54:53,32,Male,85.0,182,6B,indoor,1,3.0,varier,Decathlon,Non,25.661152034778407
+77,9/16/2022 14:57:30,34,Male,85.0,183,5C,indoor,1,1.0,meme,Xsgrip,Non,25.381468541909282
+78,9/16/2022 15:43:28,30,Female,63.0,167,7A,indoor,4,3.0,meme,Scarpa,Non,22.589551436050055
+79,9/16/2022 15:43:50,32,Male,85.0,189,6B,indoor,10,2.0,meme,Scapa,Non,23.79552644102909
+80,9/16/2022 17:35:46,23,Female,54.0,165,6C,indoor,4,2.0,meme,La sportiva ,Non,19.834710743801654
+81,9/16/2022 18:37:18,47,Male,75.0,178,6A,indoor,2,2.0,varier,Scarpa,Non,23.671253629592222
+82,9/16/2022 18:44:50,31,Male,79.0,170,6B,outdoor,13,2.0,varier,Vapor,Non,27.33564013840831
+83,9/16/2022 18:45:00,26,Male,85.0,178,6C,indoor,1,4.0,varier,La sportiva (katana) ,Non,26.82742078020452
+84,9/16/2022 18:45:21,33,Female,93.0,179,5C,outdoor,1,3.0,varier,Sportiva,Non,29.025311319871417
+85,9/16/2022 18:46:08,47,Female,55.0,168,6A,outdoor,2,3.0,varier,Tenaya,Non,19.48696145124717
+86,9/16/2022 18:54:04,42,Male,62.0,170,7B,indoor,8,5.0,varier,La sportiva comp ,Oui,21.453287197231838
+87,9/16/2022 19:30:31,24,Female,55.0,159,6B,outdoor,7,3.0,varier,Scarpa drago LV,Oui,21.75546853368142
+88,9/16/2022 20:03:18,26,Female,65.0,168,6A,outdoor,2,1.0,varier,Scarpa,Non,23.030045351473927
+89,9/16/2022 22:04:57,32,Male,70.0,174,7A,outdoor,3,2.0,varier,Scarpa drago,Non,23.120623596247853
+90,9/16/2022 23:06:01,29,Female,63.0,164,6B,outdoor,2,2.0,varier,sportiva ,Oui,23.423557406305775
+91,9/17/2022 7:53:11,36,Male,68.0,176,6A,outdoor,5,,,,Non,21.952479338842977
+92,9/17/2022 9:21:01,27,Male,65.0,178,7C,outdoor,10,5.0,varier,Scarpa ocun et la sportiva,Oui,20.515086478979924
+93,9/17/2022 9:52:25,40,Female,68.0,172,6A,indoor,3,1.0,varier,Simond,Non,22.985397512168742
+94,9/17/2022 11:49:35,51,Male,76.0,171,6B,outdoor,3,2.0,varier,Millet,Non,25.990903183885642
+95,9/17/2022 14:24:19,27,Female,55.0,163,6A,indoor,1,2.0,varier,Boldrini,Non,20.70081674131507
+96,9/17/2022 17:03:11,20,Female,53.0,160,6B,outdoor,1,4.0,meme,La sportiva ,Non,20.703124999999996
+97,9/17/2022 17:59:57,45,Male,78.0,182,6B,indoor,5,1.0,varier,Scarpa,Non,23.54788069073783
+98,9/17/2022 19:02:59,47,Male,75.0,181,6B,outdoor,12,4.0,varier,scarpa,Non,22.89307408198773
+99,9/18/2022 9:28:45,31,Male,75.0,178,6B,indoor,7,1.0,varier,Scarpa,No,23.671253629592222
+100,9/18/2022 20:34:20,33,Female,59.0,171,5b,outdoor,3,1.0,meme,"Artisanales de Suesca, colombie",No,20.177148524332274
+101,9/18/2022 21:31:14,28,Female,58.0,170,5C,indoor,1,1.0,varier,Decathlon ,No,20.06920415224914
+102,9/18/2022 22:01:44,31,Male,88.0,175,5b,indoor,1,1.0,varier,Vapor,No,28.73469387755102
+103,9/18/2022 22:12:38,33,Male,77.0,180,6B,indoor,1,3.0,meme,,No,23.76543209876543
+104,9/18/2022 22:13:29,32,Male,70.0,172,6A,indoor,3,2.0,varier,Decathlon ,No,23.661438615467823
+105,9/18/2022 22:20:22,33,Male,64.0,178,5b,indoor,7,3.0,meme,,Oui,20.199469763918696
+106,9/18/2022 22:40:28,36,Female,62.0,169,5b,indoor,1,1.0,varier,,No,21.707923392038097
+107,09/20/2022,23,Female,56.0,159,7A,outdoor,2,4.0,varier,"Scarpa Dragos, Evolv Agros and La Sportiva Skwamas ",yes,22.151022507021082
+108,20/09/2022,33,Male,78.0,174,6A,indoor,7,2.0,same,Scarpa,No,25.762980578676178
